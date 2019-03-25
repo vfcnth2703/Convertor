@@ -5,9 +5,11 @@ from pprint import pprint
 class Converter:
     def __init__(self, file_name, FileReader):
         self.file_name = file_name
-        self.FileReader = FileReader
+        self.file_reader = FileReader
+        pprint(self.file_reader.__class__)
 
     def load_file(self):
+        # return self.file_reader.read(self, self.file_name)
         return FileReader.read(self, self.file_name)
 
     def save_file(self):
@@ -28,9 +30,10 @@ class FileWriter:
 
 def main():
     file = 'import_small.csv'
-    file_rider = FileReader()
-    converter = Converter(file, file_rider)
-    var_dump(converter.load_file())
+    file_reader = FileReader()
+    # print(file_reader.__class__)
+    converter = Converter(file, file_reader)
+    pprint(converter.load_file())
 
 
 if __name__ == '__main__':
