@@ -10,8 +10,8 @@ class Converter:
     def load_file(self):
         return FileReader.read(self, self.file_name)
 
-    def save_file(self, FileWriter):
-        FileWriter.write(self.file_name)
+    def save_file(self):
+        FileWriter.write(self, self.file_name, self.lines)
 
 
 class FileReader:
