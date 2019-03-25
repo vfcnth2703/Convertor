@@ -27,10 +27,10 @@ class FileWriter:
 
 
 def main():
-    file = 'D:\YandexDisk\Python\PythonProjects\SublimePlugin\import_small.csv'
+    file = 'import_small.csv'
     file_rider = FileReader()
     converter = Converter(file, file_rider)
-    print(converter.load_file())
+    pprint(converter.load_file())
 
 
 if __name__ == '__main__':
