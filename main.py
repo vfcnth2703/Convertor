@@ -30,7 +30,7 @@ def main():
     file = 'import_small.csv'
     file_rider = FileReader()
     converter = Converter(file, file_rider)
-    pprint(converter.load_file())
+    var_dump(converter.load_file())
 
 
 if __name__ == '__main__':
