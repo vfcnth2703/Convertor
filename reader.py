@@ -77,7 +77,7 @@ def make_sql(data):
 def main():
     # TODO сделать плагин для SublimeText
     # file_name = 'roma_data.csv'
-    file_name = 'D:\_TMP\Боголюбов АН.CSV'
+    file_name = 'D:\\_TMP\\Боголюбов АН.CSV'
 
     # file_name = 'export.csv'
     # file_name = 'import.csv'

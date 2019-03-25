@@ -1,6 +1,7 @@
 # coding=utf-8
 from var_dump import var_dump
 from pprint import pprint
+import reader
 
 
 class Converter:
