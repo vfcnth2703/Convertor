@@ -3,14 +3,14 @@ from pprint import pprint
 
 
 class Converter:
-    def __init__(self, file_name, FileReader):
+    def __init__(self, file_name, file_reader):
         self.file_name = file_name
-        self.file_reader = FileReader
+        self.file_reader = file_reader
         pprint(self.file_reader.__class__)
 
     def load_file(self):
-        # return self.file_reader.read(self, self.file_name)
-        return FileReader.read(self, self.file_name)
+        return self.file_reader.read(self.file_name)
+        # return FileReader.read(self, self.file_name)
 
     def save_file(self):
         FileWriter.write(self, self.file_name, self.lines)
