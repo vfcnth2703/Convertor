@@ -1,19 +1,19 @@
+# coding=utf-8
 from var_dump import var_dump
 from pprint import pprint
 
 
 class Converter:
-    def __init__(self, file_name, file_reader):
+    def __init__(self, file_name, file_reader, file_writer):
         self.file_name = file_name
         self.file_reader = file_reader
-        pprint(self.file_reader.__class__)
+        self.file_writer = file_writer
 
     def load_file(self):
         return self.file_reader.read(self.file_name)
-        # return FileReader.read(self, self.file_name)
 
     def save_file(self):
-        FileWriter.write(self, self.file_name, self.lines)
+        self.file_writer.write(self.file_name, self.lines)
 
 
 class FileReader:
@@ -31,9 +31,9 @@ class FileWriter:
 def main():
     file = 'import_small.csv'
     file_reader = FileReader()
-    # print(file_reader.__class__)
-    converter = Converter(file, file_reader)
-    pprint(converter.load_file())
+    file_writer = FileWriter()
+    converter = Converter(file, file_reader, file_writer)
+    var_dump(converter.load_file())
 
 
 if __name__ == '__main__':
