@@ -2,6 +2,7 @@
 from var_dump import var_dump
 from pprint import pprint
 import reader
+import os.path
 
 
 class Converter:
@@ -18,7 +19,11 @@ class Converter:
 
 
 class FileReader:
+    def __init__(self, file_checker):
+        self.file_checker = file_checker
+
     def read(self, file_name):
+        self.file_checker.check(file_name)
         with open(file_name, 'r') as f:
             return list(f.readlines())
 
@@ -29,10 +34,17 @@ class FileWriter:
             f.writelines(self, lines)
 
 
+class FileChecker:
+    def check(self, file_name):
+        if not os.path.exists(file_name):
+            raise IOError("File not found.")
+
+
 def main():
     file = 'import_small.csv'
-    file_reader = FileReader()
+    file_checker = FileChecker()
     file_writer = FileWriter()
+    file_reader = FileReader(file_checker)
     converter = Converter(file, file_reader, file_writer)
     var_dump(converter.load_file())
 
