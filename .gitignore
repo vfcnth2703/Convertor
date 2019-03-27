@@ -42,9 +42,9 @@ GitHub.sublime-settings
 
 ### VisualStudioCode ###
 .vscode/*
-# !.vscode/settings.json
+!.vscode/settings.json
 # !.vscode/tasks.json
-# !.vscode/launch.json
+!.vscode/launch.json
 # !.vscode/extensions.json
 
 ### VisualStudioCode Patch ###
