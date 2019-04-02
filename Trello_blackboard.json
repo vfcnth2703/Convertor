@@ -1,6 +1,6 @@
 {
   "id": "5ca3688486840562a115e3f5",
-  "name": "Временная тестовая доска",
+  "name": "Р’СЂРµРјРµРЅРЅР°СЏ С‚РµСЃС‚РѕРІР°СЏ РґРѕСЃРєР°",
   "desc": "",
   "descData": null,
   "closed": false,
@@ -204,7 +204,7 @@
   },
   "powerUps": [],
   "dateLastActivity": "2019-04-02T13:53:39.047Z",
-  "dateLastView": "2019-04-02T13:53:39.135Z",
+  "dateLastView": "2019-04-02T14:05:51.465Z",
   "shortUrl": "https://trello.com/b/brKj4dWy",
   "idTags": [],
   "datePluginDisable": null,
@@ -217,17 +217,17 @@
         "board": {
           "creationMethod": "automatic",
           "shortLink": "brKj4dWy",
-          "name": "Временная тестовая доска",
+          "name": "Р’СЂРµРјРµРЅРЅР°СЏ С‚РµСЃС‚РѕРІР°СЏ РґРѕСЃРєР°",
           "id": "5ca3688486840562a115e3f5"
         },
         "list": {
-          "name": "Отмененные задачи",
+          "name": "РћС‚РјРµРЅРµРЅРЅС‹Рµ Р·Р°РґР°С‡Рё",
           "id": "5ca368dd0262d14f4ff0c39c"
         },
         "card": {
           "shortLink": "sgdUtdcj",
           "idShort": 5,
-          "name": "Создание формы отчета в патчере по филиалам.",
+          "name": "РЎРѕР·РґР°РЅРёРµ С„РѕСЂРјС‹ РѕС‚С‡РµС‚Р° РІ РїР°С‚С‡РµСЂРµ РїРѕ С„РёР»РёР°Р»Р°Рј.",
           "id": "5ca369634b47dd7d2f69844e"
         }
       },
@@ -238,9 +238,9 @@
         "id": "5a1272b9434aafbffdf1ff14",
         "avatarHash": "46bc016da4ac471b58e578334b442980",
         "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
-        "fullName": "Александр Лобачев",
+        "fullName": "РђР»РµРєСЃР°РЅРґСЂ Р›РѕР±Р°С‡РµРІ",
         "idMemberReferrer": null,
-        "initials": "АЛ",
+        "initials": "РђР›",
         "nonPublic": {},
         "nonPublicAvailable": false,
         "username": "alobachev"
@@ -253,17 +253,17 @@
         "board": {
           "creationMethod": "automatic",
           "shortLink": "brKj4dWy",
-          "name": "Временная тестовая доска",
+          "name": "Р’СЂРµРјРµРЅРЅР°СЏ С‚РµСЃС‚РѕРІР°СЏ РґРѕСЃРєР°",
           "id": "5ca3688486840562a115e3f5"
         },
         "list": {
-          "name": "Выполнено",
+          "name": "Р’С‹РїРѕР»РЅРµРЅРѕ",
           "id": "5ca368cfa3f4a46c937440b9"
         },
         "card": {
           "shortLink": "9L22aeSe",
           "idShort": 4,
-          "name": "Перенос артикула из 1С в Патчер в модуль Правильные решения",
+          "name": "РџРµСЂРµРЅРѕСЃ Р°СЂС‚РёРєСѓР»Р° РёР· 1РЎ РІ РџР°С‚С‡РµСЂ РІ РјРѕРґСѓР»СЊ РџСЂР°РІРёР»СЊРЅС‹Рµ СЂРµС€РµРЅРёСЏ",
           "id": "5ca36951e4d7853931b9b2bc"
         }
       },
@@ -274,9 +274,9 @@
         "id": "5a1272b9434aafbffdf1ff14",
         "avatarHash": "46bc016da4ac471b58e578334b442980",
         "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
-        "fullName": "Александр Лобачев",
+        "fullName": "РђР»РµРєСЃР°РЅРґСЂ Р›РѕР±Р°С‡РµРІ",
         "idMemberReferrer": null,
-        "initials": "АЛ",
+        "initials": "РђР›",
         "nonPublic": {},
         "nonPublicAvailable": false,
         "username": "alobachev"
@@ -289,18 +289,18 @@
         "board": {
           "creationMethod": "automatic",
           "shortLink": "brKj4dWy",
-          "name": "Временная тестовая доска",
+          "name": "Р’СЂРµРјРµРЅРЅР°СЏ С‚РµСЃС‚РѕРІР°СЏ РґРѕСЃРєР°",
           "id": "5ca3688486840562a115e3f5"
         },
         "list": {
           "creationMethod": "automatic",
-          "name": "Готово",
+          "name": "Р“РѕС‚РѕРІРѕ",
           "id": "5ca3688486840562a115e3f8"
         },
         "card": {
           "shortLink": "9RbwBCTN",
           "idShort": 3,
-          "name": "Профилактика",
+          "name": "РџСЂРѕС„РёР»Р°РєС‚РёРєР°",
           "id": "5ca369414ff61c390ad926c8"
         }
       },
@@ -311,9 +311,9 @@
         "id": "5a1272b9434aafbffdf1ff14",
         "avatarHash": "46bc016da4ac471b58e578334b442980",
         "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
-        "fullName": "Александр Лобачев",
+        "fullName": "РђР»РµРєСЃР°РЅРґСЂ Р›РѕР±Р°С‡РµРІ",
         "idMemberReferrer": null,
-        "initials": "АЛ",
+        "initials": "РђР›",
         "nonPublic": {},
         "nonPublicAvailable": false,
         "username": "alobachev"
@@ -326,18 +326,18 @@
         "board": {
           "creationMethod": "automatic",
           "shortLink": "brKj4dWy",
-          "name": "Временная тестовая доска",
+          "name": "Р’СЂРµРјРµРЅРЅР°СЏ С‚РµСЃС‚РѕРІР°СЏ РґРѕСЃРєР°",
           "id": "5ca3688486840562a115e3f5"
         },
         "list": {
           "creationMethod": "automatic",
-          "name": "В работе",
+          "name": "Р’ СЂР°Р±РѕС‚Рµ",
           "id": "5ca3688486840562a115e3f7"
         },
         "card": {
           "shortLink": "JaMRXdeW",
           "idShort": 2,
-          "name": "Все менеджеры: Консультации по базе",
+          "name": "Р’СЃРµ РјРµРЅРµРґР¶РµСЂС‹: РљРѕРЅСЃСѓР»СЊС‚Р°С†РёРё РїРѕ Р±Р°Р·Рµ",
           "id": "5ca36918328c15509bb3c4f4"
         }
       },
@@ -348,9 +348,9 @@
         "id": "5a1272b9434aafbffdf1ff14",
         "avatarHash": "46bc016da4ac471b58e578334b442980",
         "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
-        "fullName": "Александр Лобачев",
+        "fullName": "РђР»РµРєСЃР°РЅРґСЂ Р›РѕР±Р°С‡РµРІ",
         "idMemberReferrer": null,
-        "initials": "АЛ",
+        "initials": "РђР›",
         "nonPublic": {},
         "nonPublicAvailable": false,
         "username": "alobachev"
@@ -363,18 +363,18 @@
         "board": {
           "creationMethod": "automatic",
           "shortLink": "brKj4dWy",
-          "name": "Временная тестовая доска",
+          "name": "Р’СЂРµРјРµРЅРЅР°СЏ С‚РµСЃС‚РѕРІР°СЏ РґРѕСЃРєР°",
           "id": "5ca3688486840562a115e3f5"
         },
         "list": {
           "creationMethod": "automatic",
-          "name": "План",
+          "name": "РџР»Р°РЅ",
           "id": "5ca3688486840562a115e3f6"
         },
         "card": {
           "shortLink": "CrmNuwhz",
           "idShort": 1,
-          "name": "Исправление шаблона талона по профилактике для конкретных заданий",
+          "name": "РСЃРїСЂР°РІР»РµРЅРёРµ С€Р°Р±Р»РѕРЅР° С‚Р°Р»РѕРЅР° РїРѕ РїСЂРѕС„РёР»Р°РєС‚РёРєРµ РґР»СЏ РєРѕРЅРєСЂРµС‚РЅС‹С… Р·Р°РґР°РЅРёР№",
           "id": "5ca3690593ef1e02c6b1928a"
         }
       },
@@ -385,9 +385,9 @@
         "id": "5a1272b9434aafbffdf1ff14",
         "avatarHash": "46bc016da4ac471b58e578334b442980",
         "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
-        "fullName": "Александр Лобачев",
+        "fullName": "РђР»РµРєСЃР°РЅРґСЂ Р›РѕР±Р°С‡РµРІ",
         "idMemberReferrer": null,
-        "initials": "АЛ",
+        "initials": "РђР›",
         "nonPublic": {},
         "nonPublicAvailable": false,
         "username": "alobachev"
@@ -400,11 +400,11 @@
         "board": {
           "creationMethod": "automatic",
           "shortLink": "brKj4dWy",
-          "name": "Временная тестовая доска",
+          "name": "Р’СЂРµРјРµРЅРЅР°СЏ С‚РµСЃС‚РѕРІР°СЏ РґРѕСЃРєР°",
           "id": "5ca3688486840562a115e3f5"
         },
         "list": {
-          "name": "Отмененные задачи",
+          "name": "РћС‚РјРµРЅРµРЅРЅС‹Рµ Р·Р°РґР°С‡Рё",
           "id": "5ca368dd0262d14f4ff0c39c"
         }
       },
@@ -415,9 +415,9 @@
         "id": "5a1272b9434aafbffdf1ff14",
         "avatarHash": "46bc016da4ac471b58e578334b442980",
         "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
-        "fullName": "Александр Лобачев",
+        "fullName": "РђР»РµРєСЃР°РЅРґСЂ Р›РѕР±Р°С‡РµРІ",
         "idMemberReferrer": null,
-        "initials": "АЛ",
+        "initials": "РђР›",
         "nonPublic": {},
         "nonPublicAvailable": false,
         "username": "alobachev"
@@ -430,11 +430,11 @@
         "board": {
           "creationMethod": "automatic",
           "shortLink": "brKj4dWy",
-          "name": "Временная тестовая доска",
+          "name": "Р’СЂРµРјРµРЅРЅР°СЏ С‚РµСЃС‚РѕРІР°СЏ РґРѕСЃРєР°",
           "id": "5ca3688486840562a115e3f5"
         },
         "list": {
-          "name": "Выполнено",
+          "name": "Р’С‹РїРѕР»РЅРµРЅРѕ",
           "id": "5ca368cfa3f4a46c937440b9"
         }
       },
@@ -445,9 +445,9 @@
         "id": "5a1272b9434aafbffdf1ff14",
         "avatarHash": "46bc016da4ac471b58e578334b442980",
         "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
-        "fullName": "Александр Лобачев",
+        "fullName": "РђР»РµРєСЃР°РЅРґСЂ Р›РѕР±Р°С‡РµРІ",
         "idMemberReferrer": null,
-        "initials": "АЛ",
+        "initials": "РђР›",
         "nonPublic": {},
         "nonPublicAvailable": false,
         "username": "alobachev"
@@ -460,16 +460,16 @@
         "board": {
           "creationMethod": "automatic",
           "shortLink": "brKj4dWy",
-          "name": "Временная тестовая доска",
+          "name": "Р’СЂРµРјРµРЅРЅР°СЏ С‚РµСЃС‚РѕРІР°СЏ РґРѕСЃРєР°",
           "id": "5ca3688486840562a115e3f5"
         },
         "list": {
           "creationMethod": "automatic",
           "id": "5ca3688486840562a115e3f7",
-          "name": "В работе"
+          "name": "Р’ СЂР°Р±РѕС‚Рµ"
         },
         "old": {
-          "name": "В процессе"
+          "name": "Р’ РїСЂРѕС†РµСЃСЃРµ"
         }
       },
       "type": "updateList",
@@ -479,9 +479,9 @@
         "id": "5a1272b9434aafbffdf1ff14",
         "avatarHash": "46bc016da4ac471b58e578334b442980",
         "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
-        "fullName": "Александр Лобачев",
+        "fullName": "РђР»РµРєСЃР°РЅРґСЂ Р›РѕР±Р°С‡РµРІ",
         "idMemberReferrer": null,
-        "initials": "АЛ",
+        "initials": "РђР›",
         "nonPublic": {},
         "nonPublicAvailable": false,
         "username": "alobachev"
@@ -494,16 +494,16 @@
         "board": {
           "creationMethod": "automatic",
           "shortLink": "brKj4dWy",
-          "name": "Временная тестовая доска",
+          "name": "Р’СЂРµРјРµРЅРЅР°СЏ С‚РµСЃС‚РѕРІР°СЏ РґРѕСЃРєР°",
           "id": "5ca3688486840562a115e3f5"
         },
         "list": {
           "creationMethod": "automatic",
           "id": "5ca3688486840562a115e3f6",
-          "name": "План"
+          "name": "РџР»Р°РЅ"
         },
         "old": {
-          "name": "Нужно сделать"
+          "name": "РќСѓР¶РЅРѕ СЃРґРµР»Р°С‚СЊ"
         }
       },
       "type": "updateList",
@@ -513,9 +513,9 @@
         "id": "5a1272b9434aafbffdf1ff14",
         "avatarHash": "46bc016da4ac471b58e578334b442980",
         "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
-        "fullName": "Александр Лобачев",
+        "fullName": "РђР»РµРєСЃР°РЅРґСЂ Р›РѕР±Р°С‡РµРІ",
         "idMemberReferrer": null,
-        "initials": "АЛ",
+        "initials": "РђР›",
         "nonPublic": {},
         "nonPublicAvailable": false,
         "username": "alobachev"
@@ -526,13 +526,13 @@
       "idMemberCreator": "5a1272b9434aafbffdf1ff14",
       "data": {
         "organization": {
-          "name": "Прораммисты",
+          "name": "РџСЂРѕСЂР°РјРјРёСЃС‚С‹",
           "id": "5a0dfb7e138981e22ab10475"
         },
         "board": {
           "creationMethod": "automatic",
           "shortLink": "brKj4dWy",
-          "name": "Временная тестовая доска",
+          "name": "Р’СЂРµРјРµРЅРЅР°СЏ С‚РµСЃС‚РѕРІР°СЏ РґРѕСЃРєР°",
           "id": "5ca3688486840562a115e3f5"
         }
       },
@@ -543,9 +543,9 @@
         "id": "5a1272b9434aafbffdf1ff14",
         "avatarHash": "46bc016da4ac471b58e578334b442980",
         "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
-        "fullName": "Александр Лобачев",
+        "fullName": "РђР»РµРєСЃР°РЅРґСЂ Р›РѕР±Р°С‡РµРІ",
         "idMemberReferrer": null,
-        "initials": "АЛ",
+        "initials": "РђР›",
         "nonPublic": {},
         "nonPublicAvailable": false,
         "username": "alobachev"
@@ -558,7 +558,7 @@
         "board": {
           "creationMethod": "automatic",
           "shortLink": "brKj4dWy",
-          "name": "Временная тестовая доска",
+          "name": "Р’СЂРµРјРµРЅРЅР°СЏ С‚РµСЃС‚РѕРІР°СЏ РґРѕСЃРєР°",
           "id": "5ca3688486840562a115e3f5"
         },
         "creationMethod": "automatic"
@@ -570,9 +570,9 @@
         "id": "5a1272b9434aafbffdf1ff14",
         "avatarHash": "46bc016da4ac471b58e578334b442980",
         "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
-        "fullName": "Александр Лобачев",
+        "fullName": "РђР»РµРєСЃР°РЅРґСЂ Р›РѕР±Р°С‡РµРІ",
         "idMemberReferrer": null,
-        "initials": "АЛ",
+        "initials": "РђР›",
         "nonPublic": {},
         "nonPublicAvailable": false,
         "username": "alobachev"
@@ -622,7 +622,7 @@
       },
       "locationName": null,
       "manualCoverAttachment": false,
-      "name": "Исправление шаблона талона по профилактике для конкретных заданий",
+      "name": "РСЃРїСЂР°РІР»РµРЅРёРµ С€Р°Р±Р»РѕРЅР° С‚Р°Р»РѕРЅР° РїРѕ РїСЂРѕС„РёР»Р°РєС‚РёРєРµ РґР»СЏ РєРѕРЅРєСЂРµС‚РЅС‹С… Р·Р°РґР°РЅРёР№",
       "pos": 65535,
       "shortLink": "CrmNuwhz",
       "badges": {
@@ -700,7 +700,7 @@
       },
       "locationName": null,
       "manualCoverAttachment": false,
-      "name": "Все менеджеры: Консультации по базе",
+      "name": "Р’СЃРµ РјРµРЅРµРґР¶РµСЂС‹: РљРѕРЅСЃСѓР»СЊС‚Р°С†РёРё РїРѕ Р±Р°Р·Рµ",
       "pos": 65535,
       "shortLink": "JaMRXdeW",
       "badges": {
@@ -778,7 +778,7 @@
       },
       "locationName": null,
       "manualCoverAttachment": false,
-      "name": "Профилактика",
+      "name": "РџСЂРѕС„РёР»Р°РєС‚РёРєР°",
       "pos": 65535,
       "shortLink": "9RbwBCTN",
       "badges": {
@@ -856,7 +856,7 @@
       },
       "locationName": null,
       "manualCoverAttachment": false,
-      "name": "Перенос артикула из 1С в Патчер в модуль Правильные решения",
+      "name": "РџРµСЂРµРЅРѕСЃ Р°СЂС‚РёРєСѓР»Р° РёР· 1РЎ РІ РџР°С‚С‡РµСЂ РІ РјРѕРґСѓР»СЊ РџСЂР°РІРёР»СЊРЅС‹Рµ СЂРµС€РµРЅРёСЏ",
       "pos": 65535,
       "shortLink": "9L22aeSe",
       "badges": {
@@ -934,7 +934,7 @@
       },
       "locationName": null,
       "manualCoverAttachment": false,
-      "name": "Создание формы отчета в патчере по филиалам.",
+      "name": "РЎРѕР·РґР°РЅРёРµ С„РѕСЂРјС‹ РѕС‚С‡РµС‚Р° РІ РїР°С‚С‡РµСЂРµ РїРѕ С„РёР»РёР°Р»Р°Рј.",
       "pos": 65535,
       "shortLink": "sgdUtdcj",
       "badges": {
@@ -1012,7 +1012,7 @@
   "lists": [
     {
       "id": "5ca3688486840562a115e3f6",
-      "name": "План",
+      "name": "РџР»Р°РЅ",
       "closed": false,
       "idBoard": "5ca3688486840562a115e3f5",
       "pos": 16384,
@@ -1036,7 +1036,7 @@
     },
     {
       "id": "5ca3688486840562a115e3f7",
-      "name": "В работе",
+      "name": "Р’ СЂР°Р±РѕС‚Рµ",
       "closed": false,
       "idBoard": "5ca3688486840562a115e3f5",
       "pos": 32768,
@@ -1060,7 +1060,7 @@
     },
     {
       "id": "5ca3688486840562a115e3f8",
-      "name": "Готово",
+      "name": "Р“РѕС‚РѕРІРѕ",
       "closed": false,
       "idBoard": "5ca3688486840562a115e3f5",
       "pos": 49152,
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "5ca368cfa3f4a46c937440b9",
-      "name": "Выполнено",
+      "name": "Р’С‹РїРѕР»РЅРµРЅРѕ",
       "closed": false,
       "idBoard": "5ca3688486840562a115e3f5",
       "pos": 114688,
@@ -1108,7 +1108,7 @@
     },
     {
       "id": "5ca368dd0262d14f4ff0c39c",
-      "name": "Отмененные задачи",
+      "name": "РћС‚РјРµРЅРµРЅРЅС‹Рµ Р·Р°РґР°С‡Рё",
       "closed": false,
       "idBoard": "5ca3688486840562a115e3f5",
       "pos": 180224,
@@ -1141,12 +1141,12 @@
         "emoji": {}
       },
       "confirmed": true,
-      "fullName": "Александр Лобачев",
+      "fullName": "РђР»РµРєСЃР°РЅРґСЂ Р›РѕР±Р°С‡РµРІ",
       "idEnterprise": null,
       "idEnterprisesDeactivated": [],
       "idMemberReferrer": null,
       "idPremOrgsAdmin": [],
-      "initials": "АЛ",
+      "initials": "РђР›",
       "memberType": "normal",
       "nonPublic": {},
       "nonPublicAvailable": false,
