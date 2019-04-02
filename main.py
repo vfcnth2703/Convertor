@@ -9,6 +9,7 @@ class Converter:
     '''
         Conver specific files into format Select into ...
     '''
+
     def __init__(self, file_name, file_reader, file_writer):
         self.file_name = file_name
         self.file_reader = file_reader
@@ -21,10 +22,20 @@ class Converter:
         self.file_writer.write(self.file_name, self.lines)
 
 
+class Selector:
+    '''
+        Class for selecting engines
+    '''
+
+    def __int__(self):
+        pass
+
+
 class FileReader:
     '''
         Reading files
     '''
+
     def __init__(self, file_checker):
         self.file_checker = file_checker
 
@@ -38,6 +49,7 @@ class FileWriter:
     '''
         Write result file
     '''
+
     def save(self, file_name, lines):
         with open(file_name, 'w') as f:
             f.writelines(self, lines)
@@ -47,6 +59,7 @@ class FileChecker:
     '''
         Checking existing target file
     '''
+
     def check(self, file_name):
         if not os.path.exists(file_name):
             raise IOError("File not found.")

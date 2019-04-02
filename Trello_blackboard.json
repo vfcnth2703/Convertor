@@ -1,0 +1,1171 @@
+{
+  "id": "5ca3688486840562a115e3f5",
+  "name": "Временная тестовая доска",
+  "desc": "",
+  "descData": null,
+  "closed": false,
+  "idOrganization": "5a0dfb7e138981e22ab10475",
+  "limits": {
+    "attachments": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 36000,
+        "warnAt": 32400
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 900
+      }
+    },
+    "boards": {
+      "totalMembersPerBoard": {
+        "status": "ok",
+        "disableAt": 1600,
+        "warnAt": 1440
+      }
+    },
+    "cards": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4500
+      },
+      "openPerList": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4500
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1800000
+      },
+      "totalPerList": {
+        "status": "ok",
+        "disableAt": 1000000,
+        "warnAt": 900000
+      }
+    },
+    "checklists": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1800000
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 450
+      }
+    },
+    "checkItems": {
+      "perChecklist": {
+        "status": "ok",
+        "disableAt": 200,
+        "warnAt": 180
+      }
+    },
+    "customFields": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 45
+      }
+    },
+    "labels": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 900
+      }
+    },
+    "lists": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 450
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 3000,
+        "warnAt": 2700
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 63
+      }
+    },
+    "reactions": {
+      "perAction": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 900
+      },
+      "uniquePerAction": {
+        "status": "ok",
+        "disableAt": 17,
+        "warnAt": 16
+      }
+    }
+  },
+  "pinned": false,
+  "starred": false,
+  "url": "https://trello.com/b/brKj4dWy/%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B4%D0%BE%D1%81%D0%BA%D0%B0",
+  "prefs": {
+    "permissionLevel": "org",
+    "voting": "disabled",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": true,
+    "cardCovers": true,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "background": "5ca24b44dd1cf156396e0e3d",
+    "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/41539ebb7803138fb2b8baef01d9758a/photo-1553796661-17b7fa359f49",
+    "backgroundImageScaled": [
+      {
+        "width": 140,
+        "height": 93,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x93/12e5f350d6a87136062d706f7b613983/photo-1553796661-17b7fa359f49.jpg"
+      },
+      {
+        "width": 256,
+        "height": 171,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x171/12e5f350d6a87136062d706f7b613983/photo-1553796661-17b7fa359f49.jpg"
+      },
+      {
+        "width": 480,
+        "height": 320,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x320/12e5f350d6a87136062d706f7b613983/photo-1553796661-17b7fa359f49.jpg"
+      },
+      {
+        "width": 960,
+        "height": 640,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x640/12e5f350d6a87136062d706f7b613983/photo-1553796661-17b7fa359f49.jpg"
+      },
+      {
+        "width": 1024,
+        "height": 683,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x683/12e5f350d6a87136062d706f7b613983/photo-1553796661-17b7fa359f49.jpg"
+      },
+      {
+        "width": 2048,
+        "height": 1366,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1366/12e5f350d6a87136062d706f7b613983/photo-1553796661-17b7fa359f49.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 854,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x854/12e5f350d6a87136062d706f7b613983/photo-1553796661-17b7fa359f49.jpg"
+      },
+      {
+        "width": 1920,
+        "height": 1280,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1280/12e5f350d6a87136062d706f7b613983/photo-1553796661-17b7fa359f49.jpg"
+      },
+      {
+        "width": 2400,
+        "height": 1600,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2400x1600/12e5f350d6a87136062d706f7b613983/photo-1553796661-17b7fa359f49.jpg"
+      },
+      {
+        "width": 2560,
+        "height": 1707,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/41539ebb7803138fb2b8baef01d9758a/photo-1553796661-17b7fa359f49"
+      }
+    ],
+    "backgroundTile": false,
+    "backgroundBrightness": "light",
+    "backgroundBottomColor": "#d39f67",
+    "backgroundTopColor": "#abbfd6",
+    "canBePublic": true,
+    "canBeEnterprise": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+  },
+  "shortLink": "brKj4dWy",
+  "subscribed": false,
+  "labelNames": {
+    "green": "",
+    "yellow": "",
+    "orange": "",
+    "red": "",
+    "purple": "",
+    "blue": "",
+    "sky": "",
+    "lime": "",
+    "pink": "",
+    "black": ""
+  },
+  "powerUps": [],
+  "dateLastActivity": "2019-04-02T13:53:39.047Z",
+  "dateLastView": "2019-04-02T13:53:39.135Z",
+  "shortUrl": "https://trello.com/b/brKj4dWy",
+  "idTags": [],
+  "datePluginDisable": null,
+  "creationMethod": "automatic",
+  "actions": [
+    {
+      "id": "5ca369634b47dd7d2f698454",
+      "idMemberCreator": "5a1272b9434aafbffdf1ff14",
+      "data": {
+        "board": {
+          "creationMethod": "automatic",
+          "shortLink": "brKj4dWy",
+          "name": "Временная тестовая доска",
+          "id": "5ca3688486840562a115e3f5"
+        },
+        "list": {
+          "name": "Отмененные задачи",
+          "id": "5ca368dd0262d14f4ff0c39c"
+        },
+        "card": {
+          "shortLink": "sgdUtdcj",
+          "idShort": 5,
+          "name": "Создание формы отчета в патчере по филиалам.",
+          "id": "5ca369634b47dd7d2f69844e"
+        }
+      },
+      "type": "createCard",
+      "date": "2019-04-02T13:53:39.090Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "5a1272b9434aafbffdf1ff14",
+        "avatarHash": "46bc016da4ac471b58e578334b442980",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
+        "fullName": "Александр Лобачев",
+        "idMemberReferrer": null,
+        "initials": "АЛ",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "alobachev"
+      }
+    },
+    {
+      "id": "5ca36951e4d7853931b9b2bd",
+      "idMemberCreator": "5a1272b9434aafbffdf1ff14",
+      "data": {
+        "board": {
+          "creationMethod": "automatic",
+          "shortLink": "brKj4dWy",
+          "name": "Временная тестовая доска",
+          "id": "5ca3688486840562a115e3f5"
+        },
+        "list": {
+          "name": "Выполнено",
+          "id": "5ca368cfa3f4a46c937440b9"
+        },
+        "card": {
+          "shortLink": "9L22aeSe",
+          "idShort": 4,
+          "name": "Перенос артикула из 1С в Патчер в модуль Правильные решения",
+          "id": "5ca36951e4d7853931b9b2bc"
+        }
+      },
+      "type": "createCard",
+      "date": "2019-04-02T13:53:21.707Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "5a1272b9434aafbffdf1ff14",
+        "avatarHash": "46bc016da4ac471b58e578334b442980",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
+        "fullName": "Александр Лобачев",
+        "idMemberReferrer": null,
+        "initials": "АЛ",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "alobachev"
+      }
+    },
+    {
+      "id": "5ca369414ff61c390ad926c9",
+      "idMemberCreator": "5a1272b9434aafbffdf1ff14",
+      "data": {
+        "board": {
+          "creationMethod": "automatic",
+          "shortLink": "brKj4dWy",
+          "name": "Временная тестовая доска",
+          "id": "5ca3688486840562a115e3f5"
+        },
+        "list": {
+          "creationMethod": "automatic",
+          "name": "Готово",
+          "id": "5ca3688486840562a115e3f8"
+        },
+        "card": {
+          "shortLink": "9RbwBCTN",
+          "idShort": 3,
+          "name": "Профилактика",
+          "id": "5ca369414ff61c390ad926c8"
+        }
+      },
+      "type": "createCard",
+      "date": "2019-04-02T13:53:05.204Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "5a1272b9434aafbffdf1ff14",
+        "avatarHash": "46bc016da4ac471b58e578334b442980",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
+        "fullName": "Александр Лобачев",
+        "idMemberReferrer": null,
+        "initials": "АЛ",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "alobachev"
+      }
+    },
+    {
+      "id": "5ca36918328c15509bb3c4f7",
+      "idMemberCreator": "5a1272b9434aafbffdf1ff14",
+      "data": {
+        "board": {
+          "creationMethod": "automatic",
+          "shortLink": "brKj4dWy",
+          "name": "Временная тестовая доска",
+          "id": "5ca3688486840562a115e3f5"
+        },
+        "list": {
+          "creationMethod": "automatic",
+          "name": "В работе",
+          "id": "5ca3688486840562a115e3f7"
+        },
+        "card": {
+          "shortLink": "JaMRXdeW",
+          "idShort": 2,
+          "name": "Все менеджеры: Консультации по базе",
+          "id": "5ca36918328c15509bb3c4f4"
+        }
+      },
+      "type": "createCard",
+      "date": "2019-04-02T13:52:24.196Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "5a1272b9434aafbffdf1ff14",
+        "avatarHash": "46bc016da4ac471b58e578334b442980",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
+        "fullName": "Александр Лобачев",
+        "idMemberReferrer": null,
+        "initials": "АЛ",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "alobachev"
+      }
+    },
+    {
+      "id": "5ca3690593ef1e02c6b19290",
+      "idMemberCreator": "5a1272b9434aafbffdf1ff14",
+      "data": {
+        "board": {
+          "creationMethod": "automatic",
+          "shortLink": "brKj4dWy",
+          "name": "Временная тестовая доска",
+          "id": "5ca3688486840562a115e3f5"
+        },
+        "list": {
+          "creationMethod": "automatic",
+          "name": "План",
+          "id": "5ca3688486840562a115e3f6"
+        },
+        "card": {
+          "shortLink": "CrmNuwhz",
+          "idShort": 1,
+          "name": "Исправление шаблона талона по профилактике для конкретных заданий",
+          "id": "5ca3690593ef1e02c6b1928a"
+        }
+      },
+      "type": "createCard",
+      "date": "2019-04-02T13:52:05.744Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "5a1272b9434aafbffdf1ff14",
+        "avatarHash": "46bc016da4ac471b58e578334b442980",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
+        "fullName": "Александр Лобачев",
+        "idMemberReferrer": null,
+        "initials": "АЛ",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "alobachev"
+      }
+    },
+    {
+      "id": "5ca368dd0262d14f4ff0c39d",
+      "idMemberCreator": "5a1272b9434aafbffdf1ff14",
+      "data": {
+        "board": {
+          "creationMethod": "automatic",
+          "shortLink": "brKj4dWy",
+          "name": "Временная тестовая доска",
+          "id": "5ca3688486840562a115e3f5"
+        },
+        "list": {
+          "name": "Отмененные задачи",
+          "id": "5ca368dd0262d14f4ff0c39c"
+        }
+      },
+      "type": "createList",
+      "date": "2019-04-02T13:51:25.140Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "5a1272b9434aafbffdf1ff14",
+        "avatarHash": "46bc016da4ac471b58e578334b442980",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
+        "fullName": "Александр Лобачев",
+        "idMemberReferrer": null,
+        "initials": "АЛ",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "alobachev"
+      }
+    },
+    {
+      "id": "5ca368cfa3f4a46c937440ba",
+      "idMemberCreator": "5a1272b9434aafbffdf1ff14",
+      "data": {
+        "board": {
+          "creationMethod": "automatic",
+          "shortLink": "brKj4dWy",
+          "name": "Временная тестовая доска",
+          "id": "5ca3688486840562a115e3f5"
+        },
+        "list": {
+          "name": "Выполнено",
+          "id": "5ca368cfa3f4a46c937440b9"
+        }
+      },
+      "type": "createList",
+      "date": "2019-04-02T13:51:11.165Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "5a1272b9434aafbffdf1ff14",
+        "avatarHash": "46bc016da4ac471b58e578334b442980",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
+        "fullName": "Александр Лобачев",
+        "idMemberReferrer": null,
+        "initials": "АЛ",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "alobachev"
+      }
+    },
+    {
+      "id": "5ca368af66e1b919e6201ed4",
+      "idMemberCreator": "5a1272b9434aafbffdf1ff14",
+      "data": {
+        "board": {
+          "creationMethod": "automatic",
+          "shortLink": "brKj4dWy",
+          "name": "Временная тестовая доска",
+          "id": "5ca3688486840562a115e3f5"
+        },
+        "list": {
+          "creationMethod": "automatic",
+          "id": "5ca3688486840562a115e3f7",
+          "name": "В работе"
+        },
+        "old": {
+          "name": "В процессе"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-04-02T13:50:39.982Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "5a1272b9434aafbffdf1ff14",
+        "avatarHash": "46bc016da4ac471b58e578334b442980",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
+        "fullName": "Александр Лобачев",
+        "idMemberReferrer": null,
+        "initials": "АЛ",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "alobachev"
+      }
+    },
+    {
+      "id": "5ca368a6b232437361de614c",
+      "idMemberCreator": "5a1272b9434aafbffdf1ff14",
+      "data": {
+        "board": {
+          "creationMethod": "automatic",
+          "shortLink": "brKj4dWy",
+          "name": "Временная тестовая доска",
+          "id": "5ca3688486840562a115e3f5"
+        },
+        "list": {
+          "creationMethod": "automatic",
+          "id": "5ca3688486840562a115e3f6",
+          "name": "План"
+        },
+        "old": {
+          "name": "Нужно сделать"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-04-02T13:50:30.540Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "5a1272b9434aafbffdf1ff14",
+        "avatarHash": "46bc016da4ac471b58e578334b442980",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
+        "fullName": "Александр Лобачев",
+        "idMemberReferrer": null,
+        "initials": "АЛ",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "alobachev"
+      }
+    },
+    {
+      "id": "5ca3688486840562a115e3fc",
+      "idMemberCreator": "5a1272b9434aafbffdf1ff14",
+      "data": {
+        "organization": {
+          "name": "Прораммисты",
+          "id": "5a0dfb7e138981e22ab10475"
+        },
+        "board": {
+          "creationMethod": "automatic",
+          "shortLink": "brKj4dWy",
+          "name": "Временная тестовая доска",
+          "id": "5ca3688486840562a115e3f5"
+        }
+      },
+      "type": "addToOrganizationBoard",
+      "date": "2019-04-02T13:49:56.737Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "5a1272b9434aafbffdf1ff14",
+        "avatarHash": "46bc016da4ac471b58e578334b442980",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
+        "fullName": "Александр Лобачев",
+        "idMemberReferrer": null,
+        "initials": "АЛ",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "alobachev"
+      }
+    },
+    {
+      "id": "5ca3688486840562a115e3fa",
+      "idMemberCreator": "5a1272b9434aafbffdf1ff14",
+      "data": {
+        "board": {
+          "creationMethod": "automatic",
+          "shortLink": "brKj4dWy",
+          "name": "Временная тестовая доска",
+          "id": "5ca3688486840562a115e3f5"
+        },
+        "creationMethod": "automatic"
+      },
+      "type": "createBoard",
+      "date": "2019-04-02T13:49:56.730Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "5a1272b9434aafbffdf1ff14",
+        "avatarHash": "46bc016da4ac471b58e578334b442980",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
+        "fullName": "Александр Лобачев",
+        "idMemberReferrer": null,
+        "initials": "АЛ",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "alobachev"
+      }
+    }
+  ],
+  "cards": [
+    {
+      "id": "5ca3690593ef1e02c6b1928a",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2019-04-02T13:52:05.694Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "5ca3688486840562a115e3f5",
+      "idLabels": [],
+      "idList": "5ca3688486840562a115e3f6",
+      "idMembersVoted": [],
+      "idShort": 1,
+      "idAttachmentCover": null,
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Исправление шаблона талона по профилактике для конкретных заданий",
+      "pos": 65535,
+      "shortLink": "CrmNuwhz",
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "alobachev+2palcydtrvuusslq4no+2s2dwnarmv8qho476ve+0zhda5ibmm@boards.trello.com",
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "shortUrl": "https://trello.com/c/CrmNuwhz",
+      "subscribed": false,
+      "url": "https://trello.com/c/CrmNuwhz/1-%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0-%D1%82%D0%B0%D0%BB%D0%BE%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D0%BD%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D1%85-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B9",
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "5ca36918328c15509bb3c4f4",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2019-04-02T13:52:24.162Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "5ca3688486840562a115e3f5",
+      "idLabels": [],
+      "idList": "5ca3688486840562a115e3f7",
+      "idMembersVoted": [],
+      "idShort": 2,
+      "idAttachmentCover": null,
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Все менеджеры: Консультации по базе",
+      "pos": 65535,
+      "shortLink": "JaMRXdeW",
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "alobachev+2palcydtrvuusslq4no+2s2dwpb95x1jydf77jo+0ftwis34zx@boards.trello.com",
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "shortUrl": "https://trello.com/c/JaMRXdeW",
+      "subscribed": false,
+      "url": "https://trello.com/c/JaMRXdeW/2-%D0%B2%D1%81%D0%B5-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%D1%8B-%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D0%B8-%D0%BF%D0%BE-%D0%B1%D0%B0%D0%B7%D0%B5",
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "5ca369414ff61c390ad926c8",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2019-04-02T13:53:05.180Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "5ca3688486840562a115e3f5",
+      "idLabels": [],
+      "idList": "5ca3688486840562a115e3f8",
+      "idMembersVoted": [],
+      "idShort": 3,
+      "idAttachmentCover": null,
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Профилактика",
+      "pos": 65535,
+      "shortLink": "9RbwBCTN",
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "alobachev+2palcydtrvuusslq4no+2s2dwtrbelstv3acamg+0fjuk7tlho@boards.trello.com",
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "shortUrl": "https://trello.com/c/9RbwBCTN",
+      "subscribed": false,
+      "url": "https://trello.com/c/9RbwBCTN/3-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0",
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "5ca36951e4d7853931b9b2bc",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2019-04-02T13:53:21.684Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "5ca3688486840562a115e3f5",
+      "idLabels": [],
+      "idList": "5ca368cfa3f4a46c937440b9",
+      "idMembersVoted": [],
+      "idShort": 4,
+      "idAttachmentCover": null,
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Перенос артикула из 1С в Патчер в модуль Правильные решения",
+      "pos": 65535,
+      "shortLink": "9L22aeSe",
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "alobachev+2palcydtrvuusslq4no+2s2dwvjvb25pv5sq9j0+23ahhz1r0r@boards.trello.com",
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "shortUrl": "https://trello.com/c/9L22aeSe",
+      "subscribed": false,
+      "url": "https://trello.com/c/9L22aeSe/4-%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81-%D0%B0%D1%80%D1%82%D0%B8%D0%BA%D1%83%D0%BB%D0%B0-%D0%B8%D0%B7-1%D1%81-%D0%B2-%D0%BF%D0%B0%D1%82%D1%87%D0%B5%D1%80-%D0%B2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F",
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "5ca369634b47dd7d2f69844e",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2019-04-02T13:53:39.047Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "5ca3688486840562a115e3f5",
+      "idLabels": [],
+      "idList": "5ca368dd0262d14f4ff0c39c",
+      "idMembersVoted": [],
+      "idShort": 5,
+      "idAttachmentCover": null,
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Создание формы отчета в патчере по филиалам.",
+      "pos": 65535,
+      "shortLink": "sgdUtdcj",
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "alobachev+2palcydtrvuusslq4no+2s2dwxflxltgu3qvf4e+0tslfixlvm@boards.trello.com",
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "shortUrl": "https://trello.com/c/sgdUtdcj",
+      "subscribed": false,
+      "url": "https://trello.com/c/sgdUtdcj/5-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%84%D0%BE%D1%80%D0%BC%D1%8B-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0-%D0%B2-%D0%BF%D0%B0%D1%82%D1%87%D0%B5%D1%80%D0%B5-%D0%BF%D0%BE-%D1%84%D0%B8%D0%BB%D0%B8%D0%B0%D0%BB%D0%B0%D0%BC",
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    }
+  ],
+  "labels": [
+    {
+      "id": "5ca3688491d0c2ddc502cfff",
+      "idBoard": "5ca3688486840562a115e3f5",
+      "name": "",
+      "color": "green"
+    },
+    {
+      "id": "5ca3688491d0c2ddc502d000",
+      "idBoard": "5ca3688486840562a115e3f5",
+      "name": "",
+      "color": "red"
+    },
+    {
+      "id": "5ca3688491d0c2ddc502d001",
+      "idBoard": "5ca3688486840562a115e3f5",
+      "name": "",
+      "color": "orange"
+    },
+    {
+      "id": "5ca3688491d0c2ddc502d002",
+      "idBoard": "5ca3688486840562a115e3f5",
+      "name": "",
+      "color": "yellow"
+    },
+    {
+      "id": "5ca3688491d0c2ddc502d007",
+      "idBoard": "5ca3688486840562a115e3f5",
+      "name": "",
+      "color": "purple"
+    },
+    {
+      "id": "5ca3688491d0c2ddc502d009",
+      "idBoard": "5ca3688486840562a115e3f5",
+      "name": "",
+      "color": "blue"
+    }
+  ],
+  "lists": [
+    {
+      "id": "5ca3688486840562a115e3f6",
+      "name": "План",
+      "closed": false,
+      "idBoard": "5ca3688486840562a115e3f5",
+      "pos": 16384,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "creationMethod": "automatic"
+    },
+    {
+      "id": "5ca3688486840562a115e3f7",
+      "name": "В работе",
+      "closed": false,
+      "idBoard": "5ca3688486840562a115e3f5",
+      "pos": 32768,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "creationMethod": "automatic"
+    },
+    {
+      "id": "5ca3688486840562a115e3f8",
+      "name": "Готово",
+      "closed": false,
+      "idBoard": "5ca3688486840562a115e3f5",
+      "pos": 49152,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "creationMethod": "automatic"
+    },
+    {
+      "id": "5ca368cfa3f4a46c937440b9",
+      "name": "Выполнено",
+      "closed": false,
+      "idBoard": "5ca3688486840562a115e3f5",
+      "pos": 114688,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "5ca368dd0262d14f4ff0c39c",
+      "name": "Отмененные задачи",
+      "closed": false,
+      "idBoard": "5ca3688486840562a115e3f5",
+      "pos": 180224,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "creationMethod": null
+    }
+  ],
+  "members": [
+    {
+      "id": "5a1272b9434aafbffdf1ff14",
+      "avatarHash": "46bc016da4ac471b58e578334b442980",
+      "avatarUrl": "https://trello-avatars.s3.amazonaws.com/46bc016da4ac471b58e578334b442980",
+      "bio": "",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "fullName": "Александр Лобачев",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": [],
+      "idMemberReferrer": null,
+      "idPremOrgsAdmin": [],
+      "initials": "АЛ",
+      "memberType": "normal",
+      "nonPublic": {},
+      "nonPublicAvailable": false,
+      "products": [],
+      "status": "disconnected",
+      "url": "https://trello.com/alobachev",
+      "username": "alobachev"
+    }
+  ],
+  "checklists": [],
+  "customFields": [],
+  "memberships": [
+    {
+      "id": "5ca3688486840562a115e3f9",
+      "idMember": "5a1272b9434aafbffdf1ff14",
+      "memberType": "admin",
+      "unconfirmed": false,
+      "deactivated": false
+    }
+  ],
+  "pluginData": []
+}
