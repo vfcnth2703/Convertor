@@ -72,6 +72,7 @@ def main():
     file_reader = FileReader(file_checker)
     converter = Converter(file, file_reader, file_writer)
     var_dump(converter.load_file())
+    # pprint(converter.load_file())
 
 
 if __name__ == '__main__':
