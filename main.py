@@ -1,6 +1,7 @@
 # coding=utf-8
-from var_dump import var_dump
-from pprint import pprint
+from var_dump import var_dump as vd
+import const
+from pprint import pprint as pp
 import reader  # CSV Files
 import os.path
 
@@ -27,8 +28,17 @@ class Selector:
         Class for selecting engines
     '''
 
-    def __int__(self):
-        pass
+    def __int__(self, file_reader, file_name):
+        self.file_reader = file_reader
+        self.file_name = file_name
+        self.output_type = const.output_type
+        self.input_type = const.input_type
+
+    def select(self):
+        if self.file_reader(self.file_name)[0] == self.output_type:
+            return const.export_header_line
+        if self.file_reader(self.file_name)[0] == self.input_type:
+            return const.import_header_line
 
 
 class FileReader:
@@ -59,7 +69,6 @@ class FileChecker:
     '''
         Checking existing target file
     '''
-
     def check(self, file_name):
         if not os.path.exists(file_name):
             raise IOError("File not found.")
@@ -71,7 +80,7 @@ def main():
     file_writer = FileWriter()
     file_reader = FileReader(file_checker)
     converter = Converter(file, file_reader, file_writer)
-    var_dump(converter.load_file())
+    vd(converter.load_file())
     # pprint(converter.load_file())
 
 
